@@ -13,4 +13,4 @@ Copying for purposes other than this use is expressly prohibited.All forms of di
  - [Ibrahim Fazili](https://github.com/IbrahimFazili)
  - [Lakshya Gupta](https://github.com/Lakshya2610)
  - Saakshi Shah
- - Aditi Dagar
+ - [Aditi Dagar](https://github.com/aditidagar)
